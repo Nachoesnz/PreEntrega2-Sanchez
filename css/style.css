@@ -2,6 +2,22 @@ body{
     background-color:rgba(86, 206, 166, 0.38);
 }
 
+p{
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 120%;
+
+}
+
+#contactoFormulario{
+    text-align: center;
+    list-style-type: none;
+}
+
+.sinpunto{
+    list-style-type: none;
+}
 
 .titulos
 {
@@ -68,7 +84,7 @@ nav ul li
 .section {
     padding: 20px;
 }
-.footer
+footer
 {
     background-color: black;
     color: violet;
@@ -123,6 +139,7 @@ nav ul li
 .fotogrande{
     width: 100%;
     height: auto;
+    padding: 30px;
 }
 
 
